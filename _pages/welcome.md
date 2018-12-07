@@ -10,6 +10,8 @@ post_date: 2018-01-24 00:47:57
 ---
 <h4>痛点描述：如何将你的专业技能知识转化为利润？</h4>
 
+<span data-type="color" style="color:#F5222D">【元旦活动】：只要注册发文即可免费获取一个月VIP会员，完成发文后，联系微信客服(cool-smiler)领取VIP会员。</span>
+
 <img src="https://cdn.nlark.com/yuque/0/2018/jpeg/195205/1540782384763-197a46d9-3d68-4c10-bbea-6c15c9bb026a.jpeg" width="747" />
 你是否曾经强烈的渴望逃离朝九晚五的生活，做自己喜欢的事，获得自己想要的东西呢？
 

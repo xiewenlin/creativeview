@@ -20,7 +20,7 @@ post_date: 2018-12-05 15:07:03
 
 <h3>步骤二：配置插件，Settings->postviews,按照下图配置后，点击最下面的保存按钮</h3>
 
-1.<i class="fa fa-eye"></i>%VIEW&#95;COUNT%次浏览&nbsp;&nbsp;&nbsp;&nbsp;
+1.<i class="fa fa-eye"></i>%VIEW&#95;COUNT%次浏览    
 2.<li><a href="%POST\_URL%"  title="%POST\_TITLE%">%POST&#95;TITLE%</a> - %VIEW&#95;COUNT% 次浏览</li>
 
 <img src="https://cdn.nlark.com/yuque/0/2018/png/195205/1543992516202-d4995be9-7f7f-4787-8fba-8aac74161368.png" alt="image.png | left | 747x391" title="" />
